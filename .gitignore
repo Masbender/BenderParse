@@ -5,6 +5,7 @@
 pom.xml
 replit.nix
 .settings
+target
 
 # Compiled class file
 *.class
