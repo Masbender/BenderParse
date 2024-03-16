@@ -1,3 +1,11 @@
+.breakpoints
+.classpath
+.project
+.replit
+pom.xml
+replit.nix
+.settings
+
 # Compiled class file
 *.class
 
