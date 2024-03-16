@@ -1,0 +1,23 @@
+#1
+Welcome to the world!
+You are in a square room with 2 doors.
+Square root of 2 is [?sqrt:2] { hooray!}
+_
+Left door;2
+Right door;3
+#2
+You are in a long hallway.
+[?sqrt:-4] { this shouldn't appear!}
+_
+Proceed;4
+
+#3
+You are in an incredibly long corridor with green wallpaper.
+[?sqrt:-4] { this shouldn't appear!}
+_
+Proceed;4
+#4
+You've made it to the end!
+Square root of 8 is [?sqrt:8]{}
+_
+Go back;1
